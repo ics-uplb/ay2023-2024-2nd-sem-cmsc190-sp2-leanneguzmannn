@@ -1,8 +1,8 @@
-# My Special Problem: An example of CMSC 190 GitHub Repository
-Authors: Juan D. Cruz and Adviser' S. Name
+# UPLB TAKAM: A Smart Mobile Cookbook and Ingredient Management Mobile Application
+Authors: Mikaela Gillian M. Guzman and Mylah Rystie U. Anacleto
 
-This is the abstract of my special problem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut congue, diam molestie pellentesque feugiat, lorem libero vehicula lorem, eget accumsan magna mi non sem. Aliquam erat volutpat. Aliquam scelerisque sagittis mi sed consequat. Ut vestibulum ullamcorper fermentum. Vivamus eu efficitur nunc, quis tempus libero. Aliquam condimentum posuere sem, vitae auctor purus tempus quis. Aenean laoreet nulla pretium mauris faucibus gravida. Nunc interdum, tortor at tempus egestas, velit eros bibendum dui, a malesuada mi lectus ut ante. Praesent ac turpis gravida, tincidunt tellus vitae, volutpat tortor.
+The UPLB TAKAM mobile application represents a timely and essential solution post pandemic, addressing the challenges that UPLB students face in meal preparation, budgeting, and nutrition. Through its innovative features such as intelligent ingredient management, personalized meal plans, and budget-friendly recipes, UPLB TAKAM aims to alleviate the burdens of time constraints, financial limitations, and unhealthy eating habits. By providing convenient access to budget-friendly, nutritious meals, UPLB TAKAM helps students make healthier food choices, develop cooking skills, and improve their well-being, supporting long-term health in a changing educational and global environment.
 
-Keywords: template, submission, repository, example
+Keywords: cookbook, ingredient management, mobile application
 
 Read [How To Document](HOWTO.md) for more details.

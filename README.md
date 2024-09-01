@@ -7,4 +7,6 @@ The UPLB TAKAM mobile application represents a timely and essential solution pos
 
 Keywords: cookbook, ingredient management, mobile application
 
+MRUANACLETO verified 13 August 2024
+
 Read [How To Document](HOWTO.md) for more details.
